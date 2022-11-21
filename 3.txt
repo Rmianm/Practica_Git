@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hola2, que mas ve?
-=======
 Hola4, que mas ve?
->>>>>>> 2860e58322f2f480779d419d32bdad12698f68c5
